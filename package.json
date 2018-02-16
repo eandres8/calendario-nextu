@@ -1,0 +1,19 @@
+{
+  "name": "calendario_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crear_usuario.js",
+  "scripts": {
+    "start": "nodemon ./server/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.15.0"
+  }
+}
